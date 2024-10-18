@@ -78,7 +78,7 @@ _Université Paris Sorbonne Nord (2021-2024)_
 ### **Licence de Droit**  
 _Université Paris II Assas (2019-2021)_
 
-- Gained an understanding of **commercial law** and **business ethics**.
+- Gained an understanding of **law**.
 
 ---
 
