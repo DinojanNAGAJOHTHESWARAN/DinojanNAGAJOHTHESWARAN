@@ -1,94 +1,145 @@
-👋 Hi, I’m Dinojan NAGAJOHTHESWARAN
+# 🌟 Dinojan NAGAJOHTHESWARAN — AI Enthusiast & Aspiring Innovator 🌟
 
-I’m a passionate MSc student in AI Applied to Business at Eugenia School, currently seeking an apprenticeship starting in September 2024. 
-With a strong background in data analysis, digital marketing, and business strategy.
-I aim to leverage AI and data-driven solutions to help businesses grow and make informed decisions.
+Welcome to my GitHub profile! I'm a student pursuing a **MSc in AI Applied to Business** at Eugenia School, blending **data science** and **business strategy** to help organizations thrive in the digital age. I'm currently looking for an **apprenticeship** starting September 2024, and I'm always excited to collaborate on innovative projects.
 
 ---
 
-👀 I’m interested in:
-- Data Science and Analytics
-- Artificial Intelligence applied to business challenges
-- Digital Marketing Strategies
-- Business Process Automation
-- Data visualization and storytelling with tools like Power BI and Google Analytics.
+## 🚀 About Me
+
+As someone deeply passionate about **AI**, **data-driven decision making**, and **digital marketing**, I aim to bridge the gap between technology and business. I believe in the transformative power of AI and data, and I'm committed to leveraging these tools for **business growth** and **operational efficiency**.
 
 ---
 
-🌱 I’m currently learning:
-- Advanced AI techniques to solve real-world business problems
-- Business analytics for data-driven decision-making
-- Nocode tools to rapidly prototype and develop business solutions
-- Marketing analytics and CRM strategies using tools like HubSpot and Airtable
+## 💡 Core Values
+
+- **Innovation**: Constantly seeking new ways to solve complex problems.
+- **Collaboration**: I thrive in environments where teamwork and shared knowledge are the focus.
+- **Continuous Learning**: Every day is an opportunity to grow and learn something new.
+- **Adaptability**: The tech world moves fast, and I move with it!
 
 ---
 
-💞️ I’m looking to collaborate on:
-- Projects that blend AI and data analysis to enhance business outcomes
-- Digital marketing campaigns where data plays a key role in shaping strategy
-- Open-source projects involving Python, SQL, or Dataiku for business intelligence
-- Building impactful dashboards and data visualizations to communicate insights clearly
+## 📈 Expertise at a Glance
+
+I bring a blend of technical knowledge and business acumen, with a strong focus on:
+
+| **Domain**              | **Skills & Tools**                                                                 |
+|-------------------------|------------------------------------------------------------------------------------|
+| 🧠 **Artificial Intelligence** | Python, Dataiku, Machine Learning Models, AI Business Applications |
+| 📊 **Data Analytics**    | SQL, Power BI, Tableau, Eulerian, Google Analytics                                |
+| 🎯 **Digital Marketing** | SEO, SEM, HubSpot, Canva, Airtable, Content Strategy, Nocode Tools                |
+| 💻 **Web Development**   | HTML, CSS, Web Analytics, Digital Campaign Management                             |
 
 ---
 
-📫 How to reach me:
-- Email: dnagajohtheswaran@gmail.com
-- LinkedIn: https://www.linkedin.com/in/dinojan-nagajohtheswaran-99a745150/
+## 🔭 What I'm Working On
+
+At the moment, I’m diving deep into **AI-driven marketing strategies**, and I’m particularly interested in how **data analytics** can be combined with AI to shape smarter business decisions. I'm also exploring **NoCode platforms** for rapid business application development.
 
 ---
 
-😄 Pronouns:
-He/Him
+## 🌟 Professional Experience
+
+### **1. Ministère de l'Intérieur et des Outre Mer (DICOM) — Data Analyst Intern**
+_April to August 2024_
+
+- Implemented **audience measurement** tools (Eulerian) to track over 100 government websites.
+- Created custom **dashboards** and **widgets** in SQL for precise data analysis.
+- Collaborated with communication teams to optimize campaign **KPIs** using **Power BI**.
+
+### **2. I-Shooting — Digital Marketing Intern**
+_May to June 2023_
+
+- Designed and executed a **digital marketing strategy**, doubling client growth.
+- Rebuilt the website using **HTML** and developed an **English version** for international clients.
+- Expanded social media presence and launched a successful **TikTok** campaign.
+
+### **3. Mercedes Benz Data - Marketing Week — Marketing Intern**
+_March 2023_
+
+- Researched and benchmarked digital marketing campaigns for targeted **customer acquisition**.
+- Created promotional content and presented marketing strategies to the **Product Owner**.
 
 ---
 
-⚡ Fun fact:
-When I'm not immersed in data and AI, you can find me:
-- playing the guitar (for over 7 years!),
-- practicing karate,
-- or indulging in my love for Asian TV series and Manhwa (Korean webcomics).
+## 🎓 Education
+
+### **MSc AI Applied to Business**  
+_Eugenia School (2024-2026)_
+
+- Advanced topics in **AI**, **business analytics**, and **CRM**.
+- Developed technical skills in **Python**, **SQL**, **Dataiku**, **Power BI**, and **HubSpot**.
+
+### **BUT Techniques de Commercialisation**  
+_Université Paris Sorbonne Nord (2021-2024)_
+
+- Specialized in **digital marketing**, **content creation**, and **CRM tools**.
+
+### **Licence de Droit**  
+_Université Paris II Assas (2019-2021)_
+
+- Gained an understanding of **commercial law** and **business ethics**.
 
 ---
 
-💼 Professional Experience:
+## 🌱 Learning Journey
 
-- Data Analyst Intern @ Ministère de l'Intérieur et des Outre Mer (DICOM):
-- Analyzed data for over 100 websites using Eulerian, created dashboards in SQL, and tracked KPIs.
-- Developed 5 tutorials for internal teams on using Eulerian for data analysis.
-
-- Digital Marketing Intern @ I-Shooting:
-- Developed marketing strategies that doubled the client base, redesigned the website (HTML), managed social media, and launched a TikTok channel.
-- Prospected partnerships with luxury Parisian hotels, promoting the company's services.
-
-- Marketing Intern @ Mercedes Benz Data - Marketing Week : 
-  - Created and presented a marketing campaign targeting specific personas, conducted market research, and developed advertising content.
-
-- Cashier @ Barathi:
-- Managed customer service, inventory, and supplier coordination, and produced weekly reports on stock levels.
-
-🎓 Education:
-
-- MSc AI Applied to Business @ Eugenia School (2024-2026)  
-  Skills & Tools: Python, SQL, Power BI, Dataiku, Google Analytics, HubSpot, Airtable, ChatGPT, Business Analytics, Data Visualization, CRM, Nocode, Marketing Analytics
-
-- BUT Techniques de Commercialisation - Digital Marketing @ Université Paris Sorbonne Nord (2021-2024)  
-  Key Skills: Marketing Strategy, Digital Communication, CRM, Content Creation
-
-- Licence de Droit @ Université Paris II Assas (2019-2021)  
-  Relevant Knowledge: Legal frameworks, Commercial Law, Business Ethics
-
-🌐 Languages:
-- French: Native
-- Tamil: Native
-- English: Intermediate
-
-🛠 Key Skills & Tools:
-- Programming & Data Analysis: Python, SQL, Dataiku, ChatGPT
-- Data Visualization: Power BI, Google Analytics, Tableau
-- CRM & Marketing Tools: HubSpot, Airtable, Canva, Nocode Platforms
-- Digital Marketing: SEO, SEM, Content Strategy, Social Media Management
-- Other Tools: Eulerian (Audience Measurement), Canva (Content Creation), HTML (Web Development)
+I’m constantly expanding my knowledge in **AI**, **machine learning**, and **marketing analytics**. I’m particularly focused on tools like **Dataiku** and **HubSpot**, and how they can be leveraged to deliver business value at scale.
 
 ---
 
-Let's connect and explore how we can collaborate on impactful projects!
+## 💬 How to Reach Me
+
+I'm always excited to discuss potential collaborations, projects, or even just exchange knowledge! Feel free to reach out to me through:
+
+- **📧 Email**: [dnagajohtheswaran@gmail.com](mailto:dnagajohtheswaran@gmail.com)
+- **📱 Phone**: 06 44 03 35 34
+- **💼 LinkedIn**: [Dinojan NagaJoththeswaran](https://www.linkedin.com/in/dinojan-nagajohtheswaran)
+
+---
+
+## 🔗 Let's Build Something Great Together
+
+I’m actively seeking collaboration opportunities in the fields of **AI**, **data analytics**, and **digital marketing**. Whether it’s an open-source project or a business-focused initiative, I’d love to contribute my expertise to make an impact.
+
+---
+
+## ⚡ Fun Facts & Hobbies
+
+- 🎸 **Guitar Enthusiast**: I’ve been playing the guitar for over 7 years and love to jam in my free time.
+- 🥋 **Karate Practitioner**: I’ve practiced karate for several years, and it helps me stay disciplined and focused.
+- 🎥 **Asian TV Series Addict**: I can’t get enough of Korean dramas and **manhwa** (Korean comics)!
+
+---
+
+## ✨ Languages
+
+- **French**: Native  
+- **Tamil**: Native  
+- **English**: Intermediate
+
+---
+
+## 🛠 Tools & Technologies
+
+Here are some of the tools I use regularly in my projects:
+
+| **Category**         | **Tools**                                                                                     |
+|----------------------|-----------------------------------------------------------------------------------------------|
+| **Programming**       | Python, SQL, Dataiku, Airtable                                                                |
+| **Data Visualization**| Power BI, Tableau, Google Analytics                                                           |
+| **Marketing & CRM**   | HubSpot, Canva, HTML/CSS, Nocode Platforms                                                    |
+| **Collaboration**     | Git, Slack, Microsoft Teams, Notion                                                           |
+
+---
+
+## 🌟 Let’s Innovate Together
+
+I’m all about innovation, collaboration, and pushing boundaries. Let’s connect, exchange ideas, and explore how we can build something truly impactful.
+
+---
+
+**“The best way to predict the future is to create it.”**
+
+---
+
