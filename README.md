@@ -94,7 +94,7 @@ I'm always excited to discuss potential collaborations, projects, or even just e
 
 - **📧 Email**: [dnagajohtheswaran@gmail.com](mailto:dnagajohtheswaran@gmail.com)
 - **📱 Phone**: 06 44 03 35 34
-- **💼 LinkedIn**: [Dinojan NagaJoththeswaran](https://www.linkedin.com/in/dinojan-nagajohtheswaran)
+- **💼 LinkedIn**: [Dinojan Nagajoththeswaran](https://www.linkedin.com/in/dinojan-nagajohtheswaran-99a745150/)
 
 ---
 
